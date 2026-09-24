@@ -1,19 +1,51 @@
-# milas.dev.milahsilva.github.io
 
-🌟 My Portfolio
-Welcome to my portfolio! I am a beginner developer, and this space shows some of the projects I am creating as I learn and grow. This portfolio is part of my journey to improve my skills and share what I am working on.
+# 🌐 Mila Silva — Portfolio
 
-👨‍💻 About Me
-I am starting my path in programming and web development. I enjoy learning new things, building simple projects, and understanding how technology works. Every project here represents something I learned along the way.
+Welcome to my portfolio! 👋
 
-🚀 About This Portfolio
-This portfolio was created to:
-Practice my coding and design skills
+I'm an IT student interested in **web development, programming and design**. This portfolio is where I share some of the projects I create while learning and improving my skills.
 
-🛠️ Technologies I Am Learning
-Some of the tools and languages I am currently studying include:
-HTML
-CSS
-JavaScript
-Git and GitHub
-I am still learning, but I am excited to continue growing my skills.
+## 👩🏻‍💻 About Me
+
+I'm currently studying **Information Technology** and exploring different areas of web development.
+
+I enjoy creating websites, experimenting with layouts and learning how different technologies work together. I like combining **technology and creativity** when working on my projects.
+
+## 🚀 About This Portfolio
+
+I created this portfolio to:
+
+* Practice web development
+* Improve my HTML, CSS and JavaScript skills
+* Experiment with different designs and layouts
+* Build projects and document my progress
+* Learn more about Git and GitHub
+
+## 🛠️ Technologies
+
+Currently working with:
+
+* HTML
+* CSS
+* JavaScript
+* Git
+* GitHub
+* Figma
+* Canva
+
+## 📂 Projects
+
+Here you can find some of the projects I've created while studying and practicing web development.
+
+More projects will be added as I continue learning. ✨
+
+## 🌱 Currently Learning
+
+I'm currently focusing on improving my **JavaScript** and developing my skills in web development.
+
+---
+
+📍 Oslo, Norway
+🎓 VG2 Information Technology
+
+⭐ Thanks for visiting my portfolio!
